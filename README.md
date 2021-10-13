@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moortza
-- 👀 I’m interested in progtamming and problem solving
+- 👀 I’m interested in programming and problem solving
 - 🌱 I’m currently learning evertything
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
